@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="cm.madao.projectmanager">
+    <module_version install_time="1412468043701" last="true" origin="installer" specification_version="1.0">
+        <file crc="1067530449" name="config/Modules/cm-madao-projectmanager.xml"/>
+        <file crc="1499271660" name="modules/cm-madao-projectmanager.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.0\platform=1396974882658
+cluster.C:/Users/tame/Documents/PROJETS/Madao PM/ProjectManager/build/cluster=1412468043959
+cluster.C:/Program Files/NetBeans 8.0/platform=1396974882658
+user=1412468043959
+crc=7
+locale=en_US
+branding=projectmanager
+java.version=1.8.0
+java.vm.version=25.0-b70
